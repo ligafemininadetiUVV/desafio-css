@@ -1,10 +1,10 @@
 # Boas vindas ao desafio de CSS! 🩷
 
-Vamos continuar praticando! O objetivo agora é dar contunidade no que foi construído no último desafio.
+Vamos continuar praticando! 
 ### 🗒 SIGA OS PASSOS ABAIXO ANTES DE COMEÇAR A DESENVOLVER:
 
 1. Clone o repositório
-  * `git clone git@github.com:ligafemininadetiUVV/desafio-html.git`.
+  * `git clone git@github.com:ligafemininadetiUVV/desafio-css.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd desafio-html`
 
